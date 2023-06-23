@@ -12,4 +12,4 @@
 <img src="./Public/Image/HTML.png" alt="html">
 
 <h2>Punto 3: CSS </h2>
-<img src="./Public/Image/CSS.png" alt="css">
+<img src="./Public/Image/css.png" alt="css">
