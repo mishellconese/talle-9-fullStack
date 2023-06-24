@@ -19,3 +19,6 @@
 
 <h2>Punto 5: HTML/CSS </h2>
 <img src="./Public/Image/Punto5.png" alt="punto5">
+
+<h2>Punto 6: HTML/CSS </h2>
+<img src="./Public/Image/Punto6.png" alt="punto6">
