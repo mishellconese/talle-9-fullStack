@@ -1,0 +1,28 @@
+table{
+    border: 1px solid;
+    border-collapse: collapse;
+    /**padding: 3px 6px;**/
+    margin: 0px 230px;
+    background: yellow;
+}
+
+table td{
+    border: 1px solid;
+}
+
+p{
+    margin: auto;
+    text-align: center !important;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: red;
+}
+
+table th{
+    text-align: justify;
+    margin-left: 1%;
+}
+
+span{
+    margin-right: 3%;
+    text-decoration: none;
+}
