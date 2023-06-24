@@ -1,0 +1,34 @@
+.texto {
+    text-decoration: none;
+    text-align: justify;
+    padding: 24px 24px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.first u{
+    color: green;
+}
+
+
+.first b{
+    color: red;
+}
+.first span{
+    text-decoration: underline overline;
+}
+
+.second b {
+    font-size: 26px;
+}
+
+.third{
+    font-size: 18px;
+}
+.third span{
+    color: red;
+}
+
+.third u{
+    color: blue;
+}
