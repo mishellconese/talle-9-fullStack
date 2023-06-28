@@ -5,7 +5,7 @@
 <p>Curso: Full Stack Básico - Grupo 1</p>
 <p>Profesor: Cristian Patiño</p>
 
-<h2>Punto 1. Link de figma</h2>
+<h2>Punto 1. Link del Sitio web</h2>
 <a href="https://mishellconese.github.io/talle-9-fullStack/">Sitio Web</a>
 
 <h2>Punto 1. Link de figma</h2>
